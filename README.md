@@ -16,3 +16,5 @@ where large or small specifies which dataset to use. The program will prompt the
 This project is a part of the CS50 AI curriculum, and the latest version of Python to be used in this course is Python 3.10.
 
 Enjoy playing the Six Degrees of Separation game with the Degrees project!
+
+Note: Since "Large" folder is too big, "Small" is the only available example for now. Feel free to test it on your own examples.
